@@ -1,3 +1,4 @@
+title: SCP-4587
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
