@@ -1,6 +1,6 @@
-Addendum 4587-A: Incident Reports
+**Addendum 4587-A: Incident Reports**
 
-Incident 4587-A-1: Morning Observation
+**Incident 4587-A-1: Morning Observation**
 
     Date and Time: [REDACTED]
     Location: [REDACTED]

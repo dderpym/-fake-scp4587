@@ -1,0 +1,10 @@
+
+Addendum 4587-B: Incident Reports
+**Incident 4587-B-1: Lunchtime Interaction**
+
+- Date and Time: [REDACTED]
+- Location: [REDACTED]
+
+During lunchtime on [REDACTED], SCP-4587 exhibited a notable desire to interact with multiple groups of individuals. It initiated conversations with various individuals present and, on multiple occasions, brought up the subject of homecoming. SCP-4587 expressed a sense of pride at having been nominated for homecoming royalty. Notably, SCP-4587 did not secure the homecoming royalty title and was evidently perplexed by both the nomination and the identity of the nominator.
+
+During this incident, SCP-4587 appeared to be cooperative and non-confrontational, despite the absence of a favorable response from the individuals it attempted to engage with. No unusual behaviors or manifestations were reported during this time.
