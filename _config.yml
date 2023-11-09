@@ -7,8 +7,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - SCP-4587.md
-  - Addendum/4587-A
-  - Addendum/4587-B
-  - Addendum/4587-C
-  - Addendum/4587-D
+  - SCP-7239.md
